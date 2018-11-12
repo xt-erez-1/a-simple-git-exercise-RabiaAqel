@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: <Smoked fish Your favorite food here>
+I like to hear: <Jazz Your favorite music here>
+My hobbies are <Programming>.
 
-I would like to travel to <XXXX>.
+I would like to travel to <Moscow>.
 
-"<XXXX Your favorite quote goes here>".
+"<DRY Your favorite quote goes here>".
